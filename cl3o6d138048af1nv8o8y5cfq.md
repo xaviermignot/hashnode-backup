@@ -12,7 +12,7 @@ If you're not familiar with the concepts of message routing and device twin, I e
 - [Message routing for telemetry](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-messages-d2c)
 - [Device twin presentation](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-device-twins)
 
-*TL;DR* If you're in a hurry and need the answers right now you can jump to the [summary](https://hashnode.xmi.fr/azure-iot-hub-routing-device-twin-changes-deep-dive#heading-summary) section of this post, otherwise I'll appreciate if you read the whole thing 🤗  
+*TL;DR* If you're in a hurry and need the answers right now you can jump to the [summary](#heading-summary) section of this post, otherwise I'll appreciate if you read the whole thing 🤗  
 
 
 ## Creating the demo environment
