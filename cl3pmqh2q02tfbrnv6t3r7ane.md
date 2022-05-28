@@ -4,8 +4,7 @@ A few days ago I was starting to build a small demo as a console app that uses a
 So I asked myself *Why not try to use this .NET secret thing that I never use normally ?*  
 Well, as it was not as simple a I initially thought, I have ended up with the idea of writing this post to share what I have learnt.
 
-All the samples are written in .NET 5 and are available here:  
-%[https://github.com/xaviermignot/dotnet-console-secret-samples]
+All the samples are written in .NET 5 and are available [here](https://github.com/xaviermignot/dotnet-console-secret-samples).    
 I have put everything in the `Program.cs` file for each sample for readability, I don't do this normally 😉
 
 ## What is the .NET Secret Manager ?
